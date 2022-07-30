@@ -1,0 +1,20 @@
+.circle{
+	position: absolute;
+	left: 50%;
+	margin-top:-20px;
+	transform: translateX(-50%);
+    width: 70px;
+    height: 70px;
+    text-align: center;
+    line-height: 70px;
+    border-radius: 50%;
+    background-color: #ffffff;
+    box-shadow: 0 10px 25px 0 rgba(37, 15, 139, 0.1);
+}
+
+.circle .i{
+	position: relative;
+	top: 5px;
+	font-size: 30px;
+	color:#1c4aa6;
+}

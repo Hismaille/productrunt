@@ -1,0 +1,43 @@
+section.sobre-time{
+	padding: 40px 0;
+	background-color: #f4f9fd;
+
+}
+
+.img-time img{
+    float: right;
+    width: 50%;
+    max-width: 100%;
+}
+
+.time-descricao-2{
+    float: left;
+    width: 50%;
+}
+
+.time-descricao-2 h2{
+	color: #202020;
+	line-height: 35px;
+	font-size: 24px;
+	margin-bottom: 30px;
+}
+
+.time-descricao-2 p{
+	color: #272727;
+	padding-right: 30px;
+	font-size: 15px;
+}
+
+@media screen and (max-width: 768px){
+    .img-time img{
+        float: none;
+        width: 100%;
+        padding: 10px 0;
+    }
+    .time-descricao-2{
+        float: none;
+        width: 100%;
+        text-align: center;
+    }
+    
+}

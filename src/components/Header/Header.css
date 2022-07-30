@@ -1,0 +1,45 @@
+.time-descricao{
+	float: left;
+    max-width: 500px;
+	margin-top:50px;
+	color: white;
+}
+
+.time-descricao h2{
+	font-size: 45px;
+}
+
+.time-descricao p{
+	font-size: 14px;
+	margin-top: 10px;
+	max-width: 240px;
+}
+
+.time-descricao a{
+	display: inline-block;
+	margin-top: 14px;
+	padding:10px 8px;
+	text-decoration: none;
+	color: #1b49a5;
+	font-weight: bold;
+	border-radius: 8px;
+	background: #ffca00;
+	box-shadow: 0 20px 30px 0 rgba(37, 15, 138, 0.2);
+}
+
+.time-imagem img{
+	float: right;
+    max-width: 100%;
+}
+
+@media screen and (max-width: 768px){
+	.time-descricao{
+		float: none;
+		width: 100%;
+		text-align: center;
+	}
+	.time-imagem img{
+		float: none;
+		width: 100%;
+	}
+}

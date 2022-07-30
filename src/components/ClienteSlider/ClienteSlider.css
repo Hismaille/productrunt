@@ -1,0 +1,54 @@
+
+
+section.diferenciais{
+	padding: 30px 0;
+}
+
+section.diferenciais h2{
+	color:#202020;
+	font-size: 30px;
+	font-weight: normal;
+	text-align: center;
+}
+
+.icons-diferenciais{
+	display: flex;
+	flex-wrap: wrap;
+	margin-top:80px;
+}
+
+
+.box-single-diferenciais{
+	text-align: center;
+	width: 30%;
+	padding:0 10px;
+	margin-bottom: 30px;
+}
+
+.box-single-diferenciais img{
+	max-width: 100%;
+}
+
+
+.box-single-diferenciais h3{
+	font-size: 17px;
+	margin:10px 0;
+	color: #202020;
+}
+
+.box-single-diferenciais p{
+	font-size: 14px;
+	color: #202020;
+}
+
+@media screen and (max-width: 768px){
+	.icons-diferenciais{
+		display: inline;
+	}
+	
+	.box-single-diferenciais{
+		width: 100%;
+	}
+
+}
+
