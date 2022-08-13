@@ -11,7 +11,7 @@ function App() {
     <BrowserRouter>
       <Menu />
 
-      <Pages />
+        <Pages />
 
       <Footer />
     </BrowserRouter>
