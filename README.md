@@ -7,7 +7,7 @@
 Productrut - é uma forma de conectar pessoas à empresas, as pessoas que precisam de uma melhoria no ambiente de trabalho e seus colaboradores.
 
 
-Projeto desenvolvido durante a **Primmeira semana do conquiste sua vaga** oferecida pela Comunidade code.
+Projeto desenvolvido durante a **Primeira semana do conquiste sua vaga** oferecida pela Comunidade code.
 A comunidade code é uma experiência online com muitos conteúdos práticos e desafios, onde objetivo era entregar um projeto durante a semana.
 
 ---
