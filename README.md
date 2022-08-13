@@ -17,7 +17,7 @@ A comunidade code é uma experiência online com muitos conteúdos práticos e d
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./public/imagens/productrut.gif" width="400px">
+  <img alt="imagem Projeto" title="Primeira semana" src="./public/imagens/productrut.gif" width="400px">
 </p>
 
 ---
